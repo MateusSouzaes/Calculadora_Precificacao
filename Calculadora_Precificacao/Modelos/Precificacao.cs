@@ -10,11 +10,11 @@ namespace Calculadora_Precificacao.Modelos
     {
         public int id_precificacao { get; set; }
         public double custo_compra { get; set; }
-        public double frete_compra { get; set; }
-        public double icms_barreira_compra { get; set; }
-        public double outros_compra { get; set; }
-        public double frete_venda { get; set; }
-        public double comissao_venda { get; set; }
+        public double? frete_compra { get; set; }
+        public double? icms_barreira_compra { get; set; }
+        public double? outros_compra { get; set; }
+        public double? frete_venda { get; set; }
+        public double? comissao_venda { get; set; }
         public double lucro_liquido { get; set; }
         public double preco_venda_final { get; set; }
         public double formula_venda { get; set; }

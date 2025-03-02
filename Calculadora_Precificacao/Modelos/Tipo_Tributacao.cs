@@ -15,5 +15,6 @@ namespace Calculadora_Precificacao.Modelos
         public double cofins_interno { get; set; }
 
 
+
     }
 }

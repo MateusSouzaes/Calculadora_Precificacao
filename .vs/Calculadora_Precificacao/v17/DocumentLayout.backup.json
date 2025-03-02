@@ -3,39 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|c:\\users\\mateu\\onedrive - ifro.edu.br\\ads\\3\u00B0 periodo\\trabalho bd e poo\\calculadora_precificacao\\calculadora_precificacao\\dao\\tributacao_estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\dao\\tributacao_estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|c:\\users\\mateu\\onedrive - ifro.edu.br\\ads\\3\u00B0 periodo\\trabalho bd e poo\\calculadora_precificacao\\calculadora_precificacao\\dao\\estadodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\dao\\estadodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|c:\\users\\mateu\\onedrive - ifro.edu.br\\ads\\3\u00B0 periodo\\trabalho bd e poo\\calculadora_precificacao\\calculadora_precificacao\\dao\\tipo_tributacaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\dao\\tipo_tributacaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|c:\\users\\mateu\\onedrive - ifro.edu.br\\ads\\3\u00B0 periodo\\trabalho bd e poo\\calculadora_precificacao\\calculadora_precificacao\\dao\\fornecedordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\dao\\fornecedordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|c:\\users\\mateu\\onedrive - ifro.edu.br\\ads\\3\u00B0 periodo\\trabalho bd e poo\\calculadora_precificacao\\calculadora_precificacao\\dao\\precificacaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\dao\\precificacaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|c:\\users\\mateu\\onedrive - ifro.edu.br\\ads\\3\u00B0 periodo\\trabalho bd e poo\\calculadora_precificacao\\calculadora_precificacao\\dao\\empresadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\calculadora_precificacao\\dao\\empresadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\dao\\empresadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|c:\\users\\mateu\\onedrive - ifro.edu.br\\ads\\3\u00B0 periodo\\trabalho bd e poo\\calculadora_precificacao\\calculadora_precificacao\\data\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\data\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\calculadora_precificacao\\dao\\tipo_tributacaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\dao\\tipo_tributacaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|c:\\users\\mateu\\onedrive - ifro.edu.br\\ads\\3\u00B0 periodo\\trabalho bd e poo\\calculadora_precificacao\\calculadora_precificacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\calculadora_precificacao\\dao\\precificacaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\dao\\precificacaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\calculadora_precificacao\\modelos\\tributacao_estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\calculadora_precificacao\\dao\\tributacao_estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\dao\\tributacao_estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\calculadora_precificacao\\dao\\fornecedordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\dao\\fornecedordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\calculadora_precificacao\\dao\\estadodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\dao\\estadodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|c:\\users\\mateu\\onedrive - ifro.edu.br\\ads\\3\u00B0 periodo\\trabalho bd e poo\\calculadora_precificacao\\calculadora_precificacao\\modelos\\tributacao_estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\modelos\\tributacao_estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,20 +35,28 @@
       "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\modelos\\tipo_tributacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\calculadora_precificacao\\modelos\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\modelos\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\calculadora_precificacao\\modelos\\precificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\modelos\\precificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\calculadora_precificacao\\modelos\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\modelos\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\calculadora_precificacao\\modelos\\precificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\modelos\\precificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\calculadora_precificacao\\modelos\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\modelos\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\calculadora_precificacao\\modelos\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\modelos\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\calculadora_precificacao\\data\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\data\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\calculadora_precificacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|solutionrelative:calculadora_precificacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DAD31B3-DEAA-499E-8E32-B9D361F07E26}|Calculadora_Precificacao\\Calculadora_Precificacao.csproj|C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\calculadora_precificacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -70,24 +70,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Tributacao_Estado.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\DAO\\Tributacao_Estado.cs",
               "RelativeDocumentMoniker": "Calculadora_Precificacao\\DAO\\Tributacao_Estado.cs",
               "ToolTip": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\DAO\\Tributacao_Estado.cs",
               "RelativeToolTip": "Calculadora_Precificacao\\DAO\\Tributacao_Estado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T12:28:16.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "EstadoDAO.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\DAO\\EstadoDAO.cs",
               "RelativeDocumentMoniker": "Calculadora_Precificacao\\DAO\\EstadoDAO.cs",
@@ -100,20 +100,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Tipo_TributacaoDAO.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\DAO\\Tipo_TributacaoDAO.cs",
               "RelativeDocumentMoniker": "Calculadora_Precificacao\\DAO\\Tipo_TributacaoDAO.cs",
               "ToolTip": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\DAO\\Tipo_TributacaoDAO.cs",
               "RelativeToolTip": "Calculadora_Precificacao\\DAO\\Tipo_TributacaoDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T12:27:44.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FornecedorDAO.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\DAO\\FornecedorDAO.cs",
               "RelativeDocumentMoniker": "Calculadora_Precificacao\\DAO\\FornecedorDAO.cs",
@@ -126,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "PrecificacaoDAO.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\DAO\\PrecificacaoDAO.cs",
               "RelativeDocumentMoniker": "Calculadora_Precificacao\\DAO\\PrecificacaoDAO.cs",
@@ -139,20 +139,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "EmpresaDAO.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\DAO\\EmpresaDAO.cs",
               "RelativeDocumentMoniker": "Calculadora_Precificacao\\DAO\\EmpresaDAO.cs",
               "ToolTip": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\DAO\\EmpresaDAO.cs",
               "RelativeToolTip": "Calculadora_Precificacao\\DAO\\EmpresaDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwIsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T12:26:18.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\Program.cs",
               "RelativeDocumentMoniker": "Calculadora_Precificacao\\Program.cs",
@@ -160,12 +160,11 @@
               "RelativeToolTip": "Calculadora_Precificacao\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T12:10:34.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T12:10:34.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Conexao.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\Data\\Conexao.cs",
               "RelativeDocumentMoniker": "Calculadora_Precificacao\\Data\\Conexao.cs",
@@ -173,51 +172,48 @@
               "RelativeToolTip": "Calculadora_Precificacao\\Data\\Conexao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T00:35:08.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T00:35:08.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Tributacao_Estado.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\Modelos\\Tributacao_Estado.cs",
               "RelativeDocumentMoniker": "Calculadora_Precificacao\\Modelos\\Tributacao_Estado.cs",
               "ToolTip": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\Modelos\\Tributacao_Estado.cs",
               "RelativeToolTip": "Calculadora_Precificacao\\Modelos\\Tributacao_Estado.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T00:10:04.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "Precificacao.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\Modelos\\Precificacao.cs",
               "RelativeDocumentMoniker": "Calculadora_Precificacao\\Modelos\\Precificacao.cs",
               "ToolTip": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\Modelos\\Precificacao.cs",
               "RelativeToolTip": "Calculadora_Precificacao\\Modelos\\Precificacao.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T00:09:42.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T00:09:42.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "Fornecedor.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\Modelos\\Fornecedor.cs",
               "RelativeDocumentMoniker": "Calculadora_Precificacao\\Modelos\\Fornecedor.cs",
               "ToolTip": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\Modelos\\Fornecedor.cs",
               "RelativeToolTip": "Calculadora_Precificacao\\Modelos\\Fornecedor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T00:09:30.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T00:09:30.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "Estado.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\Modelos\\Estado.cs",
               "RelativeDocumentMoniker": "Calculadora_Precificacao\\Modelos\\Estado.cs",
@@ -225,34 +221,31 @@
               "RelativeToolTip": "Calculadora_Precificacao\\Modelos\\Estado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T00:09:16.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T00:09:16.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Tipo_Tributacao.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\Modelos\\Tipo_Tributacao.cs",
               "RelativeDocumentMoniker": "Calculadora_Precificacao\\Modelos\\Tipo_Tributacao.cs",
               "ToolTip": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\Modelos\\Tipo_Tributacao.cs",
               "RelativeToolTip": "Calculadora_Precificacao\\Modelos\\Tipo_Tributacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T00:09:02.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T00:09:02.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Empresa.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\Modelos\\Empresa.cs",
               "RelativeDocumentMoniker": "Calculadora_Precificacao\\Modelos\\Empresa.cs",
               "ToolTip": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\Modelos\\Empresa.cs",
               "RelativeToolTip": "Calculadora_Precificacao\\Modelos\\Empresa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T00:08:46.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T00:08:46.913Z"
             },
             {
               "$type": "Document",
@@ -263,8 +256,7 @@
               "ToolTip": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Trabalho BD e POO\\Calculadora_Precificacao\\Calculadora_Precificacao\\Form1.cs [Design]",
               "RelativeToolTip": "Calculadora_Precificacao\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T00:02:34.053Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-02T00:02:34.053Z"
             }
           ]
         }
