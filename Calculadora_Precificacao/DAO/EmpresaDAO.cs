@@ -120,7 +120,7 @@ namespace Calculadora_Precificacao.Modelos
                         e.id_empresa = dr.GetInt32("id_empresa");
                         e.cnpj = dr.GetString("cnpj");
                         e.custo_empresa = dr.GetDouble("custo_empresa");
-
+                        //adicionando pq eu não nomeei o commit
                         //valores podem ser nulos
                         e.frete_saida = dr.IsDBNull(dr.GetOrdinal("frete_saida")) ? (double?)null : dr.GetDouble("frete_saida");
                         e.ir_social_venda = dr.IsDBNull(dr.GetOrdinal("ir_social_venda")) ? (double?)null : dr.GetDouble("ir_social_venda");
