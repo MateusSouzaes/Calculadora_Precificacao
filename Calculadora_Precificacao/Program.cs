@@ -19,6 +19,7 @@ namespace Calculadora_Precificacao
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             Conexao.Conectar();
+
         }
     }
 }

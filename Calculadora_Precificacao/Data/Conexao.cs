@@ -28,5 +28,10 @@ namespace Calculadora_Precificacao.Data
             }
 
         }
+        public static void FecharConexao()
+        {
+            _conexao.Close();
+        }
     }
+
 }
