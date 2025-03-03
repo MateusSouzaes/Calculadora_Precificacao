@@ -87,8 +87,8 @@ namespace Calculadora_Precificacao.Modelos
                         e.custo_empresa = dr.GetDouble("custo_empresa");
 
                         //valores podem ser nulos
-                        e.frete_saida = dr.IsDBNull(dr.GetOrdinal("frete_saida")) ? (double?)null : dr.GetDouble("frete_saida");
-                        e.ir_social_venda = dr.IsDBNull(dr.GetOrdinal("ir_social_venda")) ? (double?)null : dr.GetDouble("ir_social_venda");
+                        e.frete_saida = dr.GetDouble("frete_saida");
+                        e.ir_social_venda =dr.GetDouble("ir_social_venda");
                     }
                     else
                     {
@@ -122,8 +122,8 @@ namespace Calculadora_Precificacao.Modelos
                         e.custo_empresa = dr.GetDouble("custo_empresa");
                         //adicionando pq eu não nomeei o commit
                         //valores podem ser nulos
-                        e.frete_saida = dr.IsDBNull(dr.GetOrdinal("frete_saida")) ? (double?)null : dr.GetDouble("frete_saida");
-                        e.ir_social_venda = dr.IsDBNull(dr.GetOrdinal("ir_social_venda")) ? (double?)null : dr.GetDouble("ir_social_venda");
+                        e.frete_saida = dr.GetDouble("frete_saida");
+                        e.ir_social_venda = dr.GetDouble("ir_social_venda");
                         empresa.Add(e);
                     }
                 }
