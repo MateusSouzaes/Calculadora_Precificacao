@@ -41,3 +41,6 @@ C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Trabalho BD e POO\Calculad
 C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Trabalho BD e POO\Calculadora_Precificacao\Calculadora_Precificacao\obj\Debug\Calculad.18C7A5BF.Up2Date
 C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Trabalho BD e POO\Calculadora_Precificacao\Calculadora_Precificacao\obj\Debug\Calculadora_Precificacao.exe
 C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Trabalho BD e POO\Calculadora_Precificacao\Calculadora_Precificacao\obj\Debug\Calculadora_Precificacao.pdb
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Trabalho BD e POO\Calculadora_Precificacao\Calculadora_Precificacao\obj\Debug\Calculadora_Precificacao.Forms.Cadastrar_Fornecedor.resources
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Trabalho BD e POO\Calculadora_Precificacao\Calculadora_Precificacao\obj\Debug\Calculadora_Precificacao.Formularios.Form_Calculadora.resources
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Trabalho BD e POO\Calculadora_Precificacao\Calculadora_Precificacao\obj\Debug\Calculadora_Precificacao.Forms.Form_Fornecedor.resources

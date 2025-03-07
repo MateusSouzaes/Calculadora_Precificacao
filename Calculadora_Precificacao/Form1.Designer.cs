@@ -70,6 +70,7 @@
             this.bt_fornecedor.TabIndex = 2;
             this.bt_fornecedor.Text = "Fornecedor";
             this.bt_fornecedor.UseVisualStyleBackColor = false;
+            this.bt_fornecedor.Click += new System.EventHandler(this.bt_fornecedor_Click);
             // 
             // bt_tributacoes
             // 

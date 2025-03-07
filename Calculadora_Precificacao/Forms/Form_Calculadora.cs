@@ -16,5 +16,13 @@ namespace Calculadora_Precificacao.Formularios
         {
             InitializeComponent();
         }
+
+        private void txtNumero(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsDigit(e.KeyChar) && e.KeyChar != (char)Keys.Back)
+            {
+                e.Handled = true;
+            }
+        }
     }
 }

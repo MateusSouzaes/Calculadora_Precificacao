@@ -2,12 +2,13 @@
 using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
+using Calculadora_Precificacao.Modelos;
 
-namespace Calculadora_Precificacao.Modelos
+namespace Calculadora_Precificacao.DAO
 {
     internal class FornecedorDAO
     {
-        public void Insert(Fornecedor fornecedor)
+        public void InsertFornecedor(Fornecedor fornecedor)
         {
             try
             {
@@ -134,5 +135,6 @@ namespace Calculadora_Precificacao.Modelos
             }
             return fornecedores;
         }
+        
     }
 }

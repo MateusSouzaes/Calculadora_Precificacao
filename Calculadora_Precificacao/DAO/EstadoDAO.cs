@@ -2,8 +2,9 @@
 using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
+using Calculadora_Precificacao.Modelos;
 
-namespace Calculadora_Precificacao.Modelos
+namespace Calculadora_Precificacao.DAO
 {
     internal class EstadoDAO
     {
@@ -55,7 +56,7 @@ namespace Calculadora_Precificacao.Modelos
             }
         }
 
-        public Estado BuscarID(int id_estado)
+        public Estado BuscarIDEstado(int id_estado)
         {
             Estado e = new Estado();
             try
@@ -84,7 +85,7 @@ namespace Calculadora_Precificacao.Modelos
             return e;
         }
 
-        public List<Estado> List()
+        public List<Estado> ListarEstado()
         {
             List<Estado> estados = new List<Estado>();
             try

@@ -2,8 +2,9 @@
 using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
+using Calculadora_Precificacao.Modelos;
 
-namespace Calculadora_Precificacao.Modelos
+namespace Calculadora_Precificacao.DAO
 {
     internal class PrecificacaoDAO
     {

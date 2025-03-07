@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using MySql.Data.MySqlClient;
 using Calculadora_Precificacao.Data;
+using Calculadora_Precificacao.Modelos;
 
-namespace Calculadora_Precificacao.Modelos
+namespace Calculadora_Precificacao.DAO
 {
     internal class Tipo_TributacaoDAO
     {
